@@ -1,0 +1,5 @@
+Dentro da pasta "logs" estão os mesmos, com os 4 testes todos rodando corretamente.
+
+Assim como na pasta print está a imagem dos testes com sucesso no terminal.
+
+*No atual momento que rodar esse teste ele pode apresentar falhas, já que o site é dinâmico e seus elementos sofrem alterações com uma certa frequência.
