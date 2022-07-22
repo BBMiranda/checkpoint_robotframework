@@ -1,5 +1,5 @@
 <h1 align="center">
-     🎨<a href="#" alt=""> Checkpoint Testing 1</a>
+     🤖<a href="#" alt=""> Checkpoint Testing 1</a> 🤖
 </h1>
 
 <h3 align="center">
